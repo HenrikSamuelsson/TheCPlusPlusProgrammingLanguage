@@ -1,7 +1,7 @@
 TheCPlusPlusProgrammingLanguage
 ===============================
 
-Exercises done while reading the book "The C++ Programming Language"
+Exercises done while reading the book "The C++ Programming Language".
 
 ####Book Details
 Name: The C++ Programming Language (4th Edition)  
