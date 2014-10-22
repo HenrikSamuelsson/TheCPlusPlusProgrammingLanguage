@@ -31,9 +31,8 @@ int main(int argc, char** argv) {
         double d;
         long l;
         long double ld;
-        int i;
         bool b;
-      
+        int i;
     };
     cout << "large: " << sizeof(large) << endl;
     
@@ -45,7 +44,6 @@ int main(int argc, char** argv) {
         long double ld;
         long l;
         double d;
-        
     };
     cout << "small: " << sizeof(small) << endl;
     
